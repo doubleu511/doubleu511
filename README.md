@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Junhyup Lee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">i'm sans.</h3>
 
 - 🏫 I’m currently working on **Gyeonggi-Game-Meister HighSchool**
 
